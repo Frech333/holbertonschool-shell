@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r a+rx directory/
+chmod -r ugo+x .
